@@ -12,7 +12,7 @@
   <a href="mailto:BVIDHI4VIDHI@GMAIL.COM">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/iam_adi29">
+  <a href="https://instagram.com/_vvidhi_15">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <!-- Add your LinkedIn or Twitter here if you want! -->
@@ -83,31 +83,12 @@ I’m **VIDHI BAWANE**, a passionate Full Stack Developer, Mentor, and Technical
 
 <br>
 
-## 🚀 Upcoming Projects
-
-1. **FLAT MATE** - [Upcoming]
-2. **NODE NET** - [Upcoming]
-3. **ENGIWORLD** - [Upcoming]
-4. **TEAMO :DIY STORE** - [Upcoming]
-5. **DAILY ROUTINE TRACKER** - [Upcoming]
 
 ---
 
-## 🛠️ IoT Projects (Patented)
 
-1. **WOMEN SAFETY DEVICE** 
-2. **IOT BASED NOVEL SCENNER**
 
 ---
-
-## 📖 Author of Books
-
-1. **LAST SIX DAYS**
-2. **THE LOVE I CANT HOLD**
-3. **THE TUNNEL PARADOX**
-4. **I KILLED MYSELF**
-5. **THE FALL OF YASAKA**
-6. **IS THIS FIRST ?**
 
 
 ## 📊 GitHub Stats
