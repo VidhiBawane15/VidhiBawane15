@@ -20,7 +20,7 @@
 </p>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
+<!--
 ## 💫 About Me
 
 I’m **VIDHI BAWANE**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
@@ -119,3 +119,5 @@ I’m **VIDHI BAWANE**, a passionate Full Stack Developer, Mentor, and Technical
 <div align="center">
   <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing! 🚀</i>
 </div>
+--> 
+
